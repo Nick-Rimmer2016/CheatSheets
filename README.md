@@ -11,7 +11,8 @@ This repository contains cheat sheets for various command-line tools. These chea
 - [sed](sed_cheat_sheet.md)
 - [awk](awk_cheat_sheet.md)
 - [PowerShell](powershell_cheat_sheet.md)
-- [Python](python_cheat_sheet.md)
+- [Python](python_cheat_sheet.md)   
+- [Bash](bash_cheat_sheet.md)
 
 ## Contributing
 
