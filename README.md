@@ -1,15 +1,15 @@
-# Cheat Sheets for Powershell, Python And Bash
+# Cheat Sheets for Linux Command Line Tools, Python, Powershell and Bash
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/64px-Tux.svg.png" alt="Linux penguin">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/64px-PowerShell_5.0_icon.png" alt="PowerShell icon">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/64px-Tux.svg.png" alt="Linux penguin">&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PowerShell_5.0_icon.png/64px-PowerShell_5.0_icon.png" alt="PowerShell icon">&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png" alt="Python icon">
 
 This repository contains cheat sheets for various command-line tools. These cheat sheets are designed to provide a quick reference for common commands and syntax.
 
 ## Cheat Sheets Available
 
-- [sed](sed.md)
-- [awk](awk.md)
+- [sed](sed_cheat_sheet.md)
+- [awk](awk_cheat_sheet.md)
 - [PowerShell](powershell_cheat_sheet.md)
 - [Python](python_cheat_sheet.md)
 
@@ -20,4 +20,5 @@ If you would like to contribute a new cheat sheet or improve an existing one, pl
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
