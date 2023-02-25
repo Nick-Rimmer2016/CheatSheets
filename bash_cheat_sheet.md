@@ -57,31 +57,35 @@ Bash is a Unix shell and command language that allows users to interact with the
 
 ```bash
 # Assigning a variable
-name="John"
+name="John"```
 
 # Using a variable
-echo "My name is $name"
+```
+echo "My name is $name"```
 
-# If statement
+### If statement
+```
 if [ $a -gt $b ]; then
     echo "$a is greater than $b"
-fi
+fi```
 
-# If-else statement
+### If-else statement
+```
 if [ $a -gt $b ]; then
     echo "$a is greater than $b"
 else
     echo "$b is greater than $a"
-fi
+fi```
 
-# If-elif-else statement
+### If-elif-else statement
+```
 if [ $a -gt $b ]; then
     echo "$a is greater than $b"
 elif [ $a -eq $b ]; then
     echo "$a is equal to $b"
 else
     echo "$b is greater than $a"
-fi
+fi```
 
 for i in {1..5}; do
     echo "Number: $
